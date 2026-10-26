@@ -1,5 +1,6 @@
 # Afondamentos-GitHub
 Trabajo de afondamentos Github
+
 Hola, soy Antonio Llamas. Soy un joven proactivo y orientado a resultados, con habilidades organizativas y capacidad para
 resolver problemas de manera creativa. Me adapto bien al trabajo en equipo y valoro la colaboración y la construcción de
 relaciones profesionales sólidas.
